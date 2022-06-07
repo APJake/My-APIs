@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Javascript",
+        "category": "code",
+        "poster": "https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": "javascript",
+        "difficulty": ""
+    },
+    {
+        "title": "PHP",
+        "category": "code",
+        "poster": "https://www.seekpng.com/png/detail/258-2582319_php-development-services-logo-php-icon-png.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": "php",
+        "difficulty": ""
+    },
+    {
+        "title": "Laravel",
+        "category": "code",
+        "poster": "https://s3-eu-west-1.amazonaws.com/bucketeer-688d8e11-8fc6-459f-bb52-26fd21452913/2020/03/AcA2LnWL_400x400.jpg",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": "laravel",
+        "difficulty": ""
+    },
+    {
+        "title": "SQL",
+        "category": "sql",
+        "poster": "https://cdn3.vectorstock.com/i/1000x1000/54/87/sql-database-server-isolated-flat-web-mobile-icon-vector-28995487.jpg",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+	{
+        "title": "Linux",
+        "category": "Linux",
+        "poster": "https://image.similarpng.com/very-thumbnail/2021/09/Linux-icon-design-on-transparent-background-PNG.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "Bash",
+        "category": "bash",
+        "poster": "https://icon-library.com/images/bash-icon/bash-icon-23.jpg",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "DevOps",
+        "category": "DevOps",
+        "poster": "https://previews.123rf.com/images/vectorhome/vectorhome1907/vectorhome190700579/127615654-devops-icon-vector.jpg",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "Docker",
+        "category": "Docker",
+        "poster": "https://cdn-icons-png.flaticon.com/512/919/919853.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "CMS",
+        "category": "cms",
+        "poster": "https://cdn-icons-png.flaticon.com/512/2867/2867263.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "Uncategorized",
+        "category": "uncategorized",
+        "poster": "http://assets.stickpng.com/images/5a4613d4d099a2ad03f9c993.png",
+        "subtitle": "Tech",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": ""
+    },
+    {
+        "title": "Add & Subtract",
+        "category": "add_subtract",
+        "poster": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/addition-icon.png",
+        "subtitle": "Math",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": "easy"
+    },
+    {
+        "title": "Multiplication",
+        "category": "mult",
+        "poster": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/addition-icon.png",
+        "subtitle": "Math",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": "medium"
+    },
+    {
+        "title": "Multiplication & Division",
+        "category": "mult_div",
+        "poster": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/addition-icon.png",
+        "subtitle": "Math",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": "medium"
+    },
+    {
+        "title": "Multiplication & Division",
+        "category": "mult_div",
+        "poster": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/addition-icon.png",
+        "subtitle": "Math",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": "hard"
+    },
+    {
+        "title": "Calculation",
+        "category": "calculation",
+        "poster": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/addition-icon.png",
+        "subtitle": "Math",
+        "totalQuiz": 10,
+        "tags": null,
+        "difficulty": "hard"
+    }
+]
